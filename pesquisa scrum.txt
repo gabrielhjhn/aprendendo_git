@@ -2,7 +2,7 @@ O que é uma Sprint: uma Sprint e uma reunião de pessoas envolvidas em um proje
 Para promover um desenvolvimento mais focalizado do projeto.
 O termo está fortemente relacionado ao framework de desenvolvimento 
 Ágil scrum. sprints normalmente tem duração de uma a quatro semanas
-
+qualquer coisa
 
 O que é product backlog: backlog refere-se a um log de acumulação de trabalho 
 Num determinado intervalo de tempo.
