@@ -1,0 +1,33 @@
+O que é uma Sprint: uma Sprint e uma reunião de pessoas envolvidas em um projeto
+Para promover um desenvolvimento mais focalizado do projeto.
+O termo está fortemente relacionado ao framework de desenvolvimento 
+Ágil scrum. sprints normalmente tem duração de uma a quatro semanas
+
+
+O que é product backlog: backlog refere-se a um log de acumulação de trabalho 
+Num determinado intervalo de tempo.
+backlog é uma espécie de estoque de folhas de requições/
+Encomendas relativas a produtos ainda não produzidos.
+Grosso modo, backlog é uma “pilha de pedidos” em espera.
+
+O que é Sprint planning: o planejamento do Sprint é um evento no scrum que inicia o Sprint. O objetivo do
+Planejamento do Sprint é definir o que pode ser entregue no Sprint e como esse trabalho vai ser alcançado.
+O planejamento do Sprint é feito em colaboração em toda a equipe scrum.
+
+O que é Sprint backlog: backlog refere-se a um log de acumulação de trabalho num
+Determinado intervalo de tempo.
+Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não  
+Produzidos. Grossomodo, backlog é uma “pilha de pedidos” em espera. 
+
+O que é daily meeting: traduzido do inglês – uma reunião stand-up é uma reunião em que os 
+Participantes geralmente participam enquanto estão em pé. O desconforto de permanecer em pé
+Por longos períodos visa mante as reuniões curtas.
+
+
+O que é Sprint review;  o principal objetivo da Sprint review é validar as entregas da equipe  
+E verificar se os critérios estabelecidos no planejamento foram executados. É o momento de
+Coletar os feedbacks do que a equipe  construiu.
+
+O que é Sprint retrospective: a retrospectiva do Sprint, ocorre após a revisão do Sprint e antes do próximo planning Sprint. De um mês. Para sprints mais curtos, o evento geralmente também é mais curto. 
+O que é scrum máster: o scrum máster é o responsável por garantir que o time scrum se 
+Oriente pelos valores e práticas do scrum. O scrum máster protege o time, certificando-se
