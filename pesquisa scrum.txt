@@ -14,7 +14,7 @@ O que é Sprint planning: o planejamento do Sprint é um evento no scrum que ini
 Planejamento do Sprint é definir o que pode ser entregue no Sprint e como esse trabalho vai ser alcançado.
 O planejamento do Sprint é feito em colaboração em toda a equipe scrum.
 
-O que é Sprint backlog: backlog refere-se a um log de acumulação de trabalho num
+O que é Sprint backlog: backlog refere-se a um log de acumulação de trabalho de reunião12:17 07/05/2022
 Determinado intervalo de tempo.
 Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não  
 Produzidos. Grossomodo, backlog é uma “pilha de pedidos” em espera. 
